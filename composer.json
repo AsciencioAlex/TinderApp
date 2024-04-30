@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "TinderApp",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "A dating App like Tinder that is build using React-Native for UI and Laravel for backend",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
